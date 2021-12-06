@@ -8,10 +8,12 @@ tags: [initial, essay] # add tag
 ---
 ### Github Page 생성
 
-Flexible-jekyll 테마를 사용해서 깃허브 페이지를 만들어 보았다
-_posts에 .markdown 넣으면 되네
-마크다운 언어 끄적끄적..
+Flexible-jekyll 테마를 사용해서 깃허브 페이지를 만들어 보았다   
+푸시하고나서 로컬이랑 다른 부분이 있어서 읭? 했는데	
+바로 리모트에 적용되는게 아니라 몇 분정도 걸리는 듯하다   
 
+_posts에 .markdown 넣으면 되네    
+마크다운 언어 끄적끄적..
 
 #### 목록 : -
  - 첫번째
