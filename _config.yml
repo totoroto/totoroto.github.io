@@ -20,7 +20,7 @@ social-email: # add your Email address
 discus-identifier: totoroto # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: G-XCV8T4PWME # Google Analytics
 
 # Build Settings
 markdown: kramdown
