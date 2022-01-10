@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 운영체제-프로세스의 개념과 상태
+title: 프로세스의 개념과 상태
 date: 2021-12-21 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: OS_title.jpg # Add image post (optional)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 운영체제-컴퓨터 시스템의 구조
+title: 컴퓨터 시스템의 구조
 date: 2021-12-17 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: OS_title.jpg # Add image post (optional)
