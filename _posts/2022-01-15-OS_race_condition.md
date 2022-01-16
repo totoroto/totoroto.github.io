@@ -53,7 +53,7 @@ tags: [OS] # add tag
 ### **Multiprocessor에서 공유 메모리 내의 커널 데이터**
     
 
-![스크린샷 2021-12-29 오전 10.47.06.png]({{site.baseurl}}/assets/img/OS/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-12-29_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.47.06.png){: width="500" height="200"}
+![2021-12-2910.47.06.png]({{site.baseurl}}/assets/img/OS/2021-12-2910.47.06.png){: width="500" height="200"}
     
 *S-box = Memory, Address Space*     
 *E-box = CPU, Process*
