@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: totoroto의 블로그                          # the main title
+title: 공부 기록용 블로그                          # the main title
 
-tagline: 관심사들 끄적끄적   # it will display as the sub-title
+tagline: iOS   # it will display as the sub-title
 
 description: iOS                       # /ko/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-siteused by seo meta and the atom feed
 
