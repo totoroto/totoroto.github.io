@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "language": "korean",
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec jekyll s*)",
+      "Bash(bundle exec jekyll b*)",
+      "Bash(bundle exec jekyll build*)",
+      "Bash(bundle install)",
+      "Bash(bundle)",
+      "Bash(npm install)",
+      "Bash(npm run *)",
+      "Bash(npx stylelint *)",
+      "Bash(git status)",
+      "Bash(git diff*)",
+      "Bash(git log*)"
+    ]
+  }
+}
